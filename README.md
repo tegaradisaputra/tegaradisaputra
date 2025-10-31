@@ -1,4 +1,4 @@
-![Header](https://raw.githubusercontent.com/tegaradisaputra/tegaradisaputra/main/banner.jpg)
+![Header](https://raw.githubusercontent.com/tegaradisaputra/tegaradisaputra/main/A_digital_graphic_design_profile_banner_features_T.png)
 
 ## 👋 Hi, I'm **Tegar Adi Saputra**
 ### 🧠 Backend Developer (in progress)
@@ -51,7 +51,7 @@ I'm also expanding my stack with **Express.js** and **Python** for backend versa
 
 🏅 **FastCamp: Hack A Day Camp (Cybersecurity Education)**  
 Issued by *FastCamp* – *24 October 2025*  
-[View Certificate (PDF)](./Tegar%20Adi%20Saputra.pdf)
+[View Certificate (PDF)](./Tegar_Adi_Saputra.pdf)
 
 </details>
 
@@ -60,8 +60,8 @@ Issued by *FastCamp* – *24 October 2025*
 <details>
   <summary><b>📊 Stats</b></summary>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tegaradisaputra&show_icons=true&title_color=3498db&text_color=2ecc71&icon_color=3498db&bg_color=00000000&hide_border=true&count_private=true)
-![Streak](https://streak-stats.demolab.com?user=tegaradisaputra&theme=dark&hide_border=true&background=00000000)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tegaradisaputra&show_icons=true&title_color=ff4d4d&text_color=f0f0f0&icon_color=ff4d4d&bg_color=00000000&hide_border=true&count_private=true)
+![Streak](https://streak-stats.demolab.com?user=tegaradisaputra&theme=dark&hide_border=true&background=00000000&ring=ff4d4d&fire=ff4d4d&currStreakLabel=ff4d4d)
 
 </details>
 
@@ -72,10 +72,4 @@ Issued by *FastCamp* – *24 October 2025*
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/tegaradisaputra)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/tegar-adi-saputra-597b0733b)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/_twnstraa)
-
-</details>
-
----
-
-![](https://komarev.com/ghpvc/?username=tegaradisaputra&style=flat-square&label=Views)
+[![Instagram](https://img.shi)]()
