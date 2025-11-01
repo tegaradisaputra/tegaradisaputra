@@ -71,4 +71,4 @@ Issued by *FastCamp* – *24 October 2025*
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/tegaradisaputra)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/tegar-adi-saputra-597b0733b)
-[![Instagram](https://img.shi)](https://www.instagram.com/_twnstraa?igsh=MWFmYmYyZ2VrZWVucw==)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/_twnstraa?igsh=MWFmYmYyZ2VrZWVucw==)
