@@ -1,4 +1,3 @@
-![Header](https://raw.githubusercontent.com/tegaradisaputra/tegaradisaputra/main/A_digital_graphic_design_profile_banner_features_T.png)
 
 ## 👋 Hi, I'm **Tegar Adi Saputra**
 ### 🧠 Backend Developer (in progress)
@@ -72,4 +71,4 @@ Issued by *FastCamp* – *24 October 2025*
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/tegaradisaputra)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/tegar-adi-saputra-597b0733b)
-[![Instagram](https://img.shi)]()
+[![Instagram](https://img.shi)](https://www.instagram.com/_twnstraa?igsh=MWFmYmYyZ2VrZWVucw==)
