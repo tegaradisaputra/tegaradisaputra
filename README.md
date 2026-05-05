@@ -1,14 +1,14 @@
 
 ### 🚀 About Me
 
-I am a **Backend Developer** with a sharp focus on the **Laravel** ecosystem. I specialize in building robust, high-performance server-side applications with a commitment to clean architecture and scalable logic.
+I am a **Junior Backend Developer** with a focus on the **Laravel** ecosystem. I enjoy building simple, clean, and functional backend systems while continuously improving my skills.
 
-* **Core Expertise:** Professional development with **PHP** and **Laravel**.
-* **Database Management:** Designing and optimizing relational databases using **MySQL**.
-* **Technical Philosophy:** I advocate for **Pure Laravel** development. By prioritizing the core framework over high-level abstractions like Livewire or Filament, I ensure maximum control over system performance, security, and architectural integrity.
-* **Frontend Integration:** Proficient in **Tailwind CSS** and **Bootstrap** to deliver seamless integration between backend logic and modern interfaces.
+* **Main Skill:** Developing backend applications using **PHP** and **Laravel**.
+* **Database:** Basic experience in designing and managing databases with **MySQL**.
+* **Approach:** I prefer using **Pure Laravel** to better understand core concepts and write more structured code.
+* **Frontend Support:** Familiar with **Tailwind CSS** and **Bootstrap** for basic UI integration.
 
-I am dedicated to writing maintainable, "clean code" and building efficient backend solutions that solve complex business requirements.
+Currently, I am focused on learning best practices, improving code quality, and building real-world projects.
 
 ---
 
