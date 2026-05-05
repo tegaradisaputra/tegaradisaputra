@@ -1,7 +1,7 @@
 
 ### 🚀 About Me
 
-I am a **Junior Backend Developer** specializing in building scalable and efficient web applications using **Laravel** and **MySQL**. 
+I am a **Junior Backend Developer** specializing in building scalable and efficient web applications using **Laravel**. 
 
 * **Core Expertise:** Deep focus on the **Laravel Ecosystem**. While I have experience with *Livewire* and *Filament*, I specialize in building robust backend systems using **pure Laravel** for maximum control and architectural integrity.
 * **Technical Stack:**
