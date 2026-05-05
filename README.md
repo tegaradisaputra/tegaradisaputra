@@ -14,15 +14,15 @@ Currently, I am focused on learning best practices, improving code quality, and 
 <details>
   <summary><b>💻 Skills</b></summary>
 
-[![PHP](https://img.shields.io/badge/PHP-★★★-lightgrey?labelColor=777BB4&logo=php&style=for-the-badge&logoColor=white)](https://www.php.net/)
-[![Laravel](https://img.shields.io/badge/Laravel-★★☆-lightgrey?labelColor=FF2D20&logo=Laravel&style=for-the-badge&logoColor=white)](https://laravel.com/)
-[![MySQL](https://img.shields.io/badge/MySQL-★★★-lightgrey?labelColor=4479A1&logo=MySQL&style=for-the-badge&logoColor=white)](https://www.mysql.com/)
+[![PHP](https://img.shields.io/badge/PHP-★★★★-lightgrey?labelColor=777BB4&logo=php&style=for-the-badge&logoColor=white)](https://www.php.net/)
+[![Laravel](https://img.shields.io/badge/Laravel-★★★★★-lightgrey?labelColor=FF2D20&logo=Laravel&style=for-the-badge&logoColor=white)](https://laravel.com/)
+[![MySQL](https://img.shields.io/badge/MySQL-★★★★-lightgrey?labelColor=4479A1&logo=MySQL&style=for-the-badge&logoColor=white)](https://www.mysql.com/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-★★☆-lightgrey?labelColor=F7DF1E&logo=JavaScript&style=for-the-badge&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Python](https://img.shields.io/badge/Python-★☆☆-lightgrey?labelColor=3776AB&logo=Python&style=for-the-badge&logoColor=white)](https://www.python.org/)
-[![HTML](https://img.shields.io/badge/HTML5-★★★-lightgrey?labelColor=E34F26&logo=HTML5&style=for-the-badge&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![HTML](https://img.shields.io/badge/HTML5-★★★★★-lightgrey?labelColor=E34F26&logo=HTML5&style=for-the-badge&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS](https://img.shields.io/badge/CSS3-★★★-lightgrey?labelColor=1572B6&logo=CSS3&style=for-the-badge&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![Bootstrap](https://img.shields.io/badge/Bootstrap-★★☆-lightgrey?labelColor=7952B3&logo=Bootstrap&style=for-the-badge&logoColor=white)](https://getbootstrap.com/)
-[![Tailwind](https://img.shields.io/badge/Tailwind-★★☆-lightgrey?labelColor=38B2AC&logo=TailwindCSS&style=for-the-badge&logoColor=white)](https://tailwindcss.com/)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-★★★-lightgrey?labelColor=7952B3&logo=Bootstrap&style=for-the-badge&logoColor=white)](https://getbootstrap.com/)
+[![Tailwind](https://img.shields.io/badge/Tailwind-★★★★-lightgrey?labelColor=38B2AC&logo=TailwindCSS&style=for-the-badge&logoColor=white)](https://tailwindcss.com/)
 
 </details>
 
