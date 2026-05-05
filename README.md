@@ -1,10 +1,14 @@
 
-## 👋 Hi, I'm **Tegar Adi Saputra**
-### 🧠 Backend Developer (in progress)
+### 🚀 About Me
 
-I'm a passionate student learning to build efficient and scalable web applications.  
-Currently exploring backend development using **PHP**, **Laravel**, and **MySQL**, while also improving front-end foundations with **HTML**, **CSS**, **Bootstrap**, **Tailwind**, and **JavaScript**.  
-I'm also expanding my stack with **Express.js** and **Python** for backend versatility and scripting.
+I am a **Junior Backend Developer** specializing in building scalable and efficient web applications using **Laravel** and **MySQL**. 
+
+* **Core Expertise:** Deep focus on the **Laravel Ecosystem**. While I have experience with *Livewire* and *Filament*, I specialize in building robust backend systems using **pure Laravel** for maximum control and architectural integrity.
+* **Technical Stack:**
+    * **Backend:** PHP (Laravel), MySQL.
+    * **Frontend Foundations:** HTML, CSS, JavaScript, Bootstrap, Tailwind.
+    * **Expanding Skills:** Actively integrating **Express.js** and **Python** into my workflow for backend versatility and automation.
+* **Goal:** Committed to writing clean, maintainable code and optimizing server-side performance.
 
 ---
 
