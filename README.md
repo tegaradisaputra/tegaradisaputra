@@ -41,7 +41,6 @@ Currently, I am focused on learning best practices, improving code quality, and 
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=GitHub&style=for-the-badge&logoColor=white)
 ![XAMPP](https://img.shields.io/badge/-XAMPP-FB7A24?logo=XAMPP&style=for-the-badge&logoColor=white)
 ![Composer](https://img.shields.io/badge/-Composer-885630?logo=Composer&style=for-the-badge&logoColor=white)
-![NodeJS](https://img.shields.io/badge/-Node.js-339933?logo=Node.js&style=for-the-badge&logoColor=white)
 ![NPM](https://img.shields.io/badge/-npm-CB3837?logo=npm&style=for-the-badge&logoColor=white)
 
 </details>
