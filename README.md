@@ -5,7 +5,6 @@ I am a **Junior Backend Developer** with a focus on the **Laravel** ecosystem. I
 
 * **Main Skill:** Developing backend applications using **PHP** and **Laravel**.
 * **Database:** Basic experience in designing and managing databases with **MySQL**.
-* **Approach:** I prefer using **Pure Laravel** to better understand core concepts and write more structured code.
 * **Frontend Support:** Familiar with **Tailwind CSS** and **Bootstrap** for basic UI integration.
 
 Currently, I am focused on learning best practices, improving code quality, and building real-world projects.
