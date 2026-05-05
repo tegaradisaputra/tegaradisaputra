@@ -17,7 +17,6 @@ Currently, I am focused on learning best practices, improving code quality, and 
 [![PHP](https://img.shields.io/badge/PHP-★★★-lightgrey?labelColor=777BB4&logo=php&style=for-the-badge&logoColor=white)](https://www.php.net/)
 [![Laravel](https://img.shields.io/badge/Laravel-★★☆-lightgrey?labelColor=FF2D20&logo=Laravel&style=for-the-badge&logoColor=white)](https://laravel.com/)
 [![MySQL](https://img.shields.io/badge/MySQL-★★★-lightgrey?labelColor=4479A1&logo=MySQL&style=for-the-badge&logoColor=white)](https://www.mysql.com/)
-[![ExpressJS](https://img.shields.io/badge/Express.js-★☆☆-lightgrey?labelColor=000000&logo=Express&style=for-the-badge&logoColor=white)](https://expressjs.com/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-★★☆-lightgrey?labelColor=F7DF1E&logo=JavaScript&style=for-the-badge&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Python](https://img.shields.io/badge/Python-★☆☆-lightgrey?labelColor=3776AB&logo=Python&style=for-the-badge&logoColor=white)](https://www.python.org/)
 [![HTML](https://img.shields.io/badge/HTML5-★★★-lightgrey?labelColor=E34F26&logo=HTML5&style=for-the-badge&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
