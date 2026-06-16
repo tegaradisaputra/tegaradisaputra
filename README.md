@@ -1,3 +1,4 @@
+<h1 align="center">Hey 👋What's Up?</h1>
 
 ### 🚀 About Me
 
@@ -9,7 +10,6 @@ I am a **Junior Backend Developer** with a focus on the **Laravel** ecosystem. I
 
 Currently, I am focused on learning best practices, improving code quality, and building real-world projects.
 
-<h1 align="center">Hey 👋What's Up?</h1>
 
 ###
 
