@@ -8,7 +8,6 @@ I am a **Junior Backend Developer** with a focus on the **Laravel** ecosystem. I
 * **Frontend Support:** Familiar with **Tailwind CSS** and **Bootstrap** for basic UI integration.
 
 Currently, I am focused on learning best practices, improving code quality, and building real-world projects.
-<h1 align="center">Hey 👋What's Up?</h1>
 
 ###
 
@@ -55,4 +54,4 @@ Currently, I am focused on learning best practices, improving code quality, and 
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/tegaradisaputra/tegaradisaputra/pacman-output/pacman-contribution-graph.svg">
 </picture>
 
-###
+###](https://www.instagram.com/_twnstraa?igsh=MWFmYmYyZ2VrZWVucw==)
