@@ -9,6 +9,8 @@ I am a **Junior Backend Developer** with a focus on the **Laravel** ecosystem. I
 
 Currently, I am focused on learning best practices, improving code quality, and building real-world projects.
 
+<h1 align="center">Hey 👋What's Up?</h1>
+
 ###
 
 <div align="center">
@@ -32,11 +34,15 @@ Currently, I am focused on learning best practices, improving code quality, and 
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
+  <a href="https://www.instagram.com/_twnstraa?igsh=MWFmYmYyZ2VrZWVucw==" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/tegar-adi-saputra-597b0733b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="tegaradisaputra537@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
 </div>
 
 ###
@@ -54,4 +60,4 @@ Currently, I am focused on learning best practices, improving code quality, and 
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/tegaradisaputra/tegaradisaputra/pacman-output/pacman-contribution-graph.svg">
 </picture>
 
-###](https://www.instagram.com/_twnstraa?igsh=MWFmYmYyZ2VrZWVucw==)
+###
